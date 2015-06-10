@@ -1,2 +1,2 @@
 # Jim-Fang
-Soon there will be a complete toturial about the Jim-Fang Application.
+Soon there will be a complete tutorial about the Jim-Fang Application.
